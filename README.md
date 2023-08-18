@@ -1,7 +1,7 @@
 Установка:
 
 ```tsx
-deno install --allow-all -n tip https://deno.land/x/tip/mod.ts
+deno install --allow-all -n tip https://deno.land/x/tip/src/tip.ts
 ```
 
 Использование:
