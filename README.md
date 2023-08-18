@@ -1,7 +1,7 @@
 Установка:
 
 ```tsx
-deno install --allow-all -n tip https://deno.land/x/tip/src/tip.ts
+deno install --allow-all -n tip https://deno.land/x/tip/mod.ts
 ```
 
 Использование:
@@ -21,3 +21,5 @@ tip generate --short
 ```bash
 tip generate --info \"Переведи ответ на русский язык\"
 ```
+
+> env переменная может быть установлена вручную, либо через .env файл с названием OPENAI_API_KEY
