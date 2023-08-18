@@ -1,0 +1,6 @@
+.vscode
+.fleet
+.idea
+.DS_Store
+.buildt
+.env
